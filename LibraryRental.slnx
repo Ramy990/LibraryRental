@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibraryRental.API/LibraryRental.API.csproj" />
+  <Project Path="LibraryRental.Application/LibraryRental.Application.csproj" />
+  <Project Path="LibraryRental.Domain/LibraryRental.Domain.csproj" />
+  <Project Path="LibraryRental.Infrastructure/LibraryRental.Infrastructure.csproj" />
+</Solution>
